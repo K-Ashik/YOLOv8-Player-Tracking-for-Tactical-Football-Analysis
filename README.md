@@ -1,5 +1,7 @@
 # YOLOv8 Player Tracking for Tactical Football Analysis¶
 
+Click here to see it live: https://www.kaggle.com/code/dkhalidashik/yolov8-player-tracking-for-football-analysis
+
 ## Introduction
 
 <img src="https://i.ytimg.com/vi/9wOVQSxTNbk/maxresdefault.jpg" alt="Girl in a jacket" width="500" height="600">
